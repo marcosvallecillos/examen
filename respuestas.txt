@@ -4,3 +4,4 @@
 4.- cat Alumnos.txt | grep "González" | wc -l
 5.- sed -i 's/Vicente/Pepe/g' Alumnos.txt
 6.-  cat Alumnos.txt  | head -n18
+7.- ls /Alumnos.txt/J/
